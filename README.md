@@ -21,9 +21,15 @@ You only need to change "NUMBER" variable, located on line 3 in magic.java file.
 
 ### Tests
 
-Giving number 142857, gets you result of "Duotasis skaičius yra magiškas";
+Giving number of 142857, gets result:
+```
+Duotasis skaičius yra magiškas
+```
 
-Giving any other number gets you result of "Duotasis skaičius nėra magiškas";
+Giving any other number gets you result:
+```
+Duotasis skaičius nėra magiškas
+```
 
 There is only one number which gives positive result. In fact there should be more accepted numbers, but they are out of long type variable length and as long as this program uses 8 bit integer system, we are not able to test these other numbers.
 

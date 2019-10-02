@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MagicNumber",
+            "request": "launch",
+            "mainClass": "MagicNumber",
+            "projectName": "Sourcery_1d47f0d7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Example19",
+            "request": "launch",
+            "mainClass": "Example19",
+            "projectName": "Sourcery_1d47f0d7"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GFG",
+            "request": "launch",
+            "mainClass": "GFG",
+            "projectName": "Sourcery_1d47f0d7"
+        }
+    ]
+}
