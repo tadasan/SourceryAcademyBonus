@@ -33,9 +33,6 @@ Duotasis skaičius nėra magiškas
 
 There is only one number which gives positive result. In fact there should be more accepted numbers, but they are out of long type variable length and as long as this program uses 8 bit integer system, we are not able to test these other numbers.
 
-```
-Give an example
-```
 
 ## Authors
 
